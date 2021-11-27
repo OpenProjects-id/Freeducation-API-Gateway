@@ -1,46 +1,46 @@
 [
   {
     "id": 1,
-    "title": "Ini title pertama",
+    "title": "Bantu Renovasi Bangunan Sekolah di Jakarta",
     "category": "Sekolah",
-    "thumbnail": "https://cdn.pixabay.com/photo/2020/05/05/12/12/coffee-5132832_1280.jpg",
-    "pledged": 0,
+    "thumbnail": "https://raw.githubusercontent.com/algonacci/Free-CDN/main/Freeducation-CDN/sekolah.jpg",
+    "pledged": 87500,
     "target": 100000,
     "date_end": 15909920000,
-    "profile_photo": "https://cdn.pixabay.com/photo/2021/10/31/16/53/squid-game-6758082_1280.png",
-    "profile_name": "Emily Waldon"
+    "profile_photo": "https://raw.githubusercontent.com/algonacci/Free-CDN/main/Freeducation-CDN/2.png",
+    "profile_name": "Admin"
   },
   {
     "id": 2,
-    "title": "Ini title kedua",
+    "title": "Ikut Urun Dana Untuk Penelitian Energi Terbarukan",
     "category": "Riset",
-    "thumbnail": "https://cdn.pixabay.com/photo/2020/05/05/12/12/coffee-5132832_1280.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/algonacci/Free-CDN/main/Freeducation-CDN/riset.jpg",
     "pledged": 120000,
     "target": 6700000,
     "date_end": 15909920000,
-    "profile_photo": "https://cdn.pixabay.com/photo/2021/10/31/16/53/squid-game-6758082_1280.png",
-    "profile_name": "Budianto"
+    "profile_photo": "https://raw.githubusercontent.com/algonacci/Free-CDN/main/Freeducation-CDN/2.png",
+    "profile_name": "Admin"
   },
   {
     "id": 3,
-    "title": "Ini title ketiga",
+    "title": "Salurkan Buku ke Daerah 3T",
     "category": "Buku",
-    "thumbnail": "https://cdn.pixabay.com/photo/2020/05/05/12/12/coffee-5132832_1280.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/algonacci/Free-CDN/main/Freeducation-CDN/buku.jpg",
     "pledged": 10000,
     "target": 256000,
     "date_end": 15909920000,
-    "profile_photo": "https://cdn.pixabay.com/photo/2021/10/31/16/53/squid-game-6758082_1280.png",
-    "profile_name": "Hermawan"
+    "profile_photo": "https://raw.githubusercontent.com/algonacci/Free-CDN/main/Freeducation-CDN/2.png",
+    "profile_name": "Admin"
   },
   {
     "id": 4,
-    "title": "Ini title pertama",
+    "title": "Bantu Urun Dana Untuk Beasiswa Murid Berprestasi",
     "category": "Beasiswa",
-    "thumbnail": "https://cdn.pixabay.com/photo/2020/05/05/12/12/coffee-5132832_1280.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/algonacci/Free-CDN/main/Freeducation-CDN/beasiswa.jpg",
     "pledged": 1200,
     "target": 190000,
     "date_end": 15909920000,
-    "profile_photo": "https://cdn.pixabay.com/photo/2021/10/31/16/53/squid-game-6758082_1280.png",
-    "profile_name": "Cahyono"
+    "profile_photo": "https://raw.githubusercontent.com/algonacci/Free-CDN/main/Freeducation-CDN/2.png",
+    "profile_name": "Admin"
   }
 ]
